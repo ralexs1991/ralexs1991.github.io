@@ -30,7 +30,7 @@ body {
 .navbar-nav li a {
     color: black !important;
     font-weight: 600;
-    float: right;
+    float: left;
     text-align: left;
 }
 .fa-bars {
