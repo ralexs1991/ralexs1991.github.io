@@ -64,7 +64,7 @@ body {
    width: 450px;
 }
 #Biography {
-    background: LightSlateGrey;
+    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
     padding-bottom: 50px;
     padding-top: 50px;
 }
