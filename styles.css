@@ -120,7 +120,7 @@ body {
     transform: translateY(8px);
 }
 #Projects .btn-primary {
-    box-shadow: none;
+    box-shadow: LightSlateGrey;
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
