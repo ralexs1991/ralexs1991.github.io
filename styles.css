@@ -93,6 +93,7 @@ body {
 }
 .Projects {
     padding: 20px;
+    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
 } 
 .Projects h2 {
     padding: 5px;
