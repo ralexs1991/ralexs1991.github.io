@@ -100,27 +100,6 @@ body {
     margin-top: 25px;
     text-transform: lowercase;
 }
-.title::before {
-    content: '';
-    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
-    height: 5px;
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    transform: translateY(72px);
-}
-.title::after {
-    content: '';
-    background: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
-    height: 10px;
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
-    display: block;
-    transform: translateY(8px);
-}
 #Projects .btn-primary {
     box-shadow: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
     padding: 8px 25px;
