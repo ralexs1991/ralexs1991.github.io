@@ -64,7 +64,7 @@ body {
    width: 450px;
 }
 #Biography {
-    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);;
+    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -112,7 +112,7 @@ body {
 }
 .title::after {
     content: '';
-    background: lightslategray;
+    background: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
     height: 10px;
     width: 50px;
     margin-left: auto;
@@ -122,7 +122,7 @@ body {
     transform: translateY(8px);
 }
 #Projects .btn-primary {
-    box-shadow: lightslategrey;
+    box-shadow: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
     padding: 8px 25px;
     border: none;
     border-radius: 20px;
@@ -134,7 +134,7 @@ body {
 }
 .footer-box {
     padding: 20px;
-    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);;
+    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
 }
 .footer-box img {
     height: 30px;
@@ -144,5 +144,5 @@ body {
     margin-bottom: 20px;
 }
 hr {
-    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);;    
+    background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);    
 }
