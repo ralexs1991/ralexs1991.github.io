@@ -4,7 +4,7 @@
     padding: 0;
 }
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace !important;
     background-image: linear-gradient(to left, LightSlateGrey, DarkSlateGrey);
 }
 #nav-bar {
